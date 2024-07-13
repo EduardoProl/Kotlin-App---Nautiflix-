@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "304368840527",
+    "firebase_url": "https://nautiflix-e49ec-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "nautiflix-e49ec",
+    "storage_bucket": "nautiflix-e49ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304368840527:android:9b328d218b4b9205261f3a",
+        "android_client_info": {
+          "package_name": "com.example.nautiflix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDugOz8aynCYv1TEdj7kxxjWe1E9rdYJJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

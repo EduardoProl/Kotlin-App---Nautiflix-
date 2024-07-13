@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Nautiflix</string><string name="pergunta_erro">x</string>
+    <string name="encontraste_um_erro">Encontraste algum erro?\nContacta-nos!\num.email.real@email.com</string>
+    <string name="definicoes">Definições</string>
+    <string name="sobre">Sobre</string>
+    <string name="sair">Sair da Aplicação</string>
+    <string name="filmes_acao">Filmes de Ação</string>
+    <string name="filmes_de_aventura">Filmes de Aventura</string>
+    <string name="filmes_de_comedia">Filmes de Comédia</string>
+    <string name="filmes_comedias_romanticas">Filmes Comédias Romanticas</string>
+    <string name="filmes_de_drama">Filmes de Drama</string>
+    <string name="filmes_de_ficcao_cientifica">Filmes de Ficção Cientifica</string>
+    <string name="filmes_de_misterio">Filmes de Mistério</string>
+    <string name="filmes_noir">Filmes Noir</string>
+    <string name="filmes_de_romance">Filmes de Romance</string>
+    <string name="filmes_western">Filmes Western</string>
+    <string name="play">Play</string>
+    <string name="voltar">Voltar</string>
+    <string name="nome">Eduardo Prol Domingos</string>
+    <string name="info_aluno">13953 - LEIC</string>
+    <string name="descricao_app">Trabalho realizado para a cadeira de Computação Móvel, na Licenciatura de Engenharia Informática e de Computadores da Escola Superior Náutica Infante D. Henrique</string>
+    <string name="redefinir_senha">Redefinir Senha</string>
+    <string name="definir_tema">Definir Tema</string>
+</resources>
